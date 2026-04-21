@@ -1,5 +1,5 @@
 # mamba_quant
-
+for https://arxiv.org/abs/2501.13484
 ##01 set links to your projection
 
     sh ./set_links_before_run.sh
