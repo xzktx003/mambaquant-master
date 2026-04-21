@@ -1,5 +1,6 @@
 # mamba_quant
-for https://arxiv.org/abs/2501.13484
+for https://arxiv.org/abs/2501.13484: MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods
+ 
 ##01 set links to your projection
 
     sh ./set_links_before_run.sh
